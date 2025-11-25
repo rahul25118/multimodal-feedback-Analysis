@@ -182,7 +182,7 @@ Fully consistent with manual phrase analysis.
 ---
 
 **Repository contains**:
-- `data/` – sample dataset structure
+- `data/` –  Dataset we use from Kaggle
 - `notebooks/` – complete analysis notebook
 - `model/` – trained Random Forest + TF-IDF vectorizer (pickle)
 - `reports/` – visualizations & this full report
